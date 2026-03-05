@@ -4,8 +4,8 @@ RENCANA KONTEN
 *Fremwork Javascript
     ^ Angular
     ^ React
+    ^ Vue
 -Struktur data dasar
-
 -PHP Fremwork
   ^ Laravel
 -Interview
