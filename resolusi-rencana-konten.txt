@@ -1,7 +1,12 @@
 RENCANA KONTEN
 
 -Javascript
+  *Fremwork Javascript
+    ^ Vue
+    ^ React
 -Struktur data dasar
 -PHP Fremwork
+  ^ Laravel
 -Interview
 -Vlog
+-Python
